@@ -1,3 +1,7 @@
 Fatih Ozoglu
 
 My First Commit 
+
+Yeni degisiklik
+
+Commit Denemesi
